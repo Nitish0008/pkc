@@ -1,0 +1,6 @@
+{
+  "name": "Pub Kamrup E-Library",
+  "description": "A comprehensive, responsive Library Management System (LMS) with full catalog management, issuing and returning tracking, shelf organization, statistics visualizer, and a Gemini-powered AI Research & Book Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
